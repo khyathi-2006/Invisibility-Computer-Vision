@@ -35,7 +35,7 @@ Ghost / Invisibility Mode
   4. Pinch again  ->  reappear
   R = recalibrate  |  S = screenshot  |  Q = quit
 """
-WINDOW = "Ghost / Invisibility Mode  by Tuba"
+WINDOW = "Ghost / Invisibility Mode"
 
 def run_calibration(cap, bg_model, w, h, seconds=3):
     print(f"[CAL] Stand still {seconds}s ...")
