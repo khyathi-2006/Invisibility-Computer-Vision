@@ -27,7 +27,7 @@ from engine import BackgroundModel, SegmentationEngine, HandTracker, PortalBox, 
 
 BANNER = """
 Ghost / Invisibility Mode
-dev: tubakhxn
+
 
   1. Stand still 3s  ->  background captured
   2. Show BOTH hands spread apart  ->  yellow box appears
